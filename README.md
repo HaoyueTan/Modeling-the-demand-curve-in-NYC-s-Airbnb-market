@@ -1,9 +1,9 @@
-## Modeling the demand curve in Airbnb market in NYC
+# Modeling the demand curve in Airbnb market in NYC
 Relationship between an Airbnb's price and its reviews-per-month in New York City, Course work for ECO225
 
 Python projects done in jupyter notebook with notation and explanation.
 
-### Related Packages:
+## Related Packages:
 - matplotlib
 - pandas
 - numpy
@@ -13,7 +13,7 @@ Python projects done in jupyter notebook with notation and explanation.
 - seaborn
 - selenium
 
-### Key Process:
+## Key Process:
 - linear regression
 - mapping
 - web scraping
